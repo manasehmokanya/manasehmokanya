@@ -1,0 +1,30 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "Test App for ALC with Google for Nano Degree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ALC",
+    "Google",
+    "xaf",
+    "usd",
+    "currency",
+    "exchange",
+    "rate"
+  ],
+  "author": "BESINGI MANASEH MOKANYA",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5",
+    "service-worker-loader": "^2.1.0",
+    "sw-precache": "^5.2.1"
+  }
+}
