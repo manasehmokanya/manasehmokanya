@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "nodemon": "^1.17.5",
-    "service-worker-loader": "^2.1.0",
+    "service-worker-loader": "^4.0.2",
     "sw-precache": "^5.2.1"
   }
 }
